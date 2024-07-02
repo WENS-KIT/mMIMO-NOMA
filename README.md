@@ -32,6 +32,7 @@ You are welcome to post your questions/comments/feedback to the WENS Laboratory 
 Best regards,
 The mMIMO-NOMA Simulator Team.
 
+PREFACE:
 
 The Massive MIMO-NOMA 5G downlink link-level simulator is published under a non-commercial academic use license. Please make sure that you understand the terms and conditions of the license before you use any of the available software packages. If you require a license different to a non-commercial academic one please request for the license to labwens@gmail.com. The detailed license agreement for the Massive MIMO-NOMA downlink link-level simulator can be found on our website. Please read it carefully. Please keep in mind that the usage of the simulator is subjected to compliance with the license terms.
 
@@ -68,4 +69,4 @@ Please download Runtime installer if you encounter .dll error. [RunTime](https:/
 
 [3] Marzetta, T., Larsson, E., Yang, H., & Ngo, H. (2016). Fundamentals of Massive MIMO. Cambridge: Cambridge University Press. doi:10.1017/CBO9781316799895.
 
-
+[4] Ahmad M, Shin SY. Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express. 2023 Aug 1;9(4):635-41.
